@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![bio](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a1a&height=55&text=Crypto+Trader+%C2%B7+3%E2%80%935+Yrs+%C2%B7+Ex+Advisory+Consultant%2C+CoinDCX&fontSize=13&fontColor=00ffcc&fontAlignY=55&animation=fadeIn)
+![bio](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a1a&height=55&text=Crypto+Trader+%C2%B7+Ex+Advisory+Consultant%2C+CoinDCX&fontSize=13&fontColor=00ffcc&fontAlignY=55&animation=fadeIn)
 
 </div>
 
