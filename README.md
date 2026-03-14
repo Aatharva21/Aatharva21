@@ -94,7 +94,7 @@ TradingView indicators, strategy scripts and multi-session overlays built from s
 &nbsp;
 ![](https://img.shields.io/badge/TRADINGVIEW-0d0d0d?style=for-the-badge&logo=tradingview&logoColor=888888&color=0d0d0d)
 &nbsp;
-![](https://img.shields.io/badge/BSE-0d0d0d?style=for-the-badge&logoColor=888888&color=0d0d0d)
+
 
 </div>
 
