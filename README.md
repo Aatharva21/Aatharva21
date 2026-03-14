@@ -1,16 +1,25 @@
-## Hi there 👋
+## Atharva
 
-<!--
-**Aatharva21/Aatharva21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crypto Trader • Prop Firm Trader • Strategy Researcher  
+Ex-Research Analyst at CoinDCX  
+Building simple tools for traders.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A workspace for trading-related experiments and small tools.
+
+Most of the projects here revolve around:
+- strategy testing
+- market structure study
+- trade review tools
+- Pine Script experiments
+
+---
+
+### Tools
+
+Pine Script • JavaScript • HTML/CSS • TradingView
+
+---
+
+Not a professional developer — primarily a trader who occasionally builds tools when something useful doesn't exist.
