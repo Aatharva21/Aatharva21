@@ -148,6 +148,24 @@ TradingView indicators, strategy scripts and multi-session overlays built from s
 
 &nbsp;
 
+**PROJECTS**
+
+&nbsp;
+
+<div align="center">
+
+[![BTC-EMA](https://github-readme-stats.vercel.app/api/pin/?username=Aatharva21&repo=BTC-EMA-based-strategy-1H-&theme=dark&bg_color=0d0d0d&title_color=aaaaaa&icon_color=666666&text_color=555555&border_color=1f1f1f&border_radius=4)](https://github.com/Aatharva21/BTC-EMA-based-strategy-1H-)
+&nbsp;
+[![Lucid-Flex](https://github-readme-stats.vercel.app/api/pin/?username=Aatharva21&repo=Lucid-Flex-50k-Trading-Journal&theme=dark&bg_color=0d0d0d&title_color=aaaaaa&icon_color=666666&text_color=555555&border_color=1f1f1f&border_radius=4)](https://github.com/Aatharva21/Lucid-Flex-50k-Trading-Journal)
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
+
 <div align="center">
 
 ![quote](https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=110&text=The+market+doesn%27t+care+about+your+opinions%2C+hopes%2C+or+feelings.&fontSize=12&fontColor=444444&fontAlignY=36&desc=It+moves+where+it+must.+Adapt+or+get+left+behind.&descSize=13&descColor=777777&descAlignY=66&animation=fadeIn)
@@ -162,6 +180,6 @@ TradingView indicators, strategy scripts and multi-session overlays built from s
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:0d0d0d&height=140&section=footer&text=AATHARVA21&fontSize=16&fontColor=222222&fontAlignY=68&fontFamily=Bebas+Neue)
 
-[atharvakharadein@gmail.com](mailto:atharvakharadein@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp; [github.com/Aatharva21](https://github.com/Aatharva21) &nbsp;&nbsp;·&nbsp;&nbsp; Mumbai, India
+[atharvakharadein@gmail.com](mailto:atharvakharadein@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp; [github.com/Aatharva21](https://github.com/Aatharva21) &nbsp;&nbsp;·&nbsp;&nbsp; [x.com/Aatharva21](https://x.com/Aatharva21) &nbsp;&nbsp;·&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/atharva-kharade-57a7b9325/) &nbsp;&nbsp;·&nbsp;&nbsp; Mumbai, India
 
 </div>
