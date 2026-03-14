@@ -1,23 +1,169 @@
-name: Generate Snake Animation
+<div align="center">
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a1f0a,100:0d0d0d&height=250&section=header&text=ATHARVA&fontSize=90&fontColor=c9a84c&fontAlignY=42&fontFamily=Bebas+Neue&desc=CRYPTO%20TRADER%20%C2%B7%20CAPITAL%20MARKETS%20%C2%B7%20STRATEGY%20RESEARCHER&descSize=13&descAlignY=62&descColor=666666&animation=fadeIn)
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Aatharva21
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=20&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=650&height=45&lines=Crypto+Trader+%C2%B7+3%E2%80%935+Years+in+the+Markets;Ex+Advisory+Consultant%2C+CoinDCX;Studying+Capital+Markets+%E2%80%94+Bombay+Stock+Exchange;The+market+moves+where+it+must.)](https://github.com/Aatharva21)
+
+</div>
+
+&nbsp;
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Aatharva21&color=c9a84c&style=flat-square&label=profile+views)&nbsp;&nbsp;
+![](https://img.shields.io/github/followers/Aatharva21?color=c9a84c&style=flat-square&label=followers)
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+<div align="center">
+
+![capsule](https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=60&text=Crypto+Trader+%C2%B7+3%E2%80%935+Years+Experience+%C2%B7+Ex+Advisory+Consultant%2C+CoinDCX+%C2%B7+Studying+Capital+Markets%2C+BSE&fontSize=12&fontColor=c9a84c&fontAlignY=55&animation=fadeIn)
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+**AREAS OF WORK**
+
+&nbsp;
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+`STRATEGY TESTING`
+
+Backtesting setups on crypto — entry logic, filters and risk parameters across varying market conditions.
+
+</td>
+<td width="25%" valign="top">
+
+`BITCOIN STUDY`
+
+Stock-to-Flow ratio analysis. Historical cycle data and on-chain macro research.
+
+</td>
+<td width="25%" valign="top">
+
+`CAPITAL MARKETS`
+
+Studying price discovery and institutional behaviour through the Bombay Stock Exchange.
+
+</td>
+<td width="25%" valign="top">
+
+`PINE SCRIPT`
+
+TradingView indicators, strategy scripts and multi-session overlays built from scratch.
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+**TOOLSTACK**
+
+&nbsp;
+
+<div align="center">
+
+![](https://img.shields.io/badge/PINE%20SCRIPT-0d0d0d?style=for-the-badge&logo=tradingview&logoColor=c9a84c&color=c9a84c)
+&nbsp;
+![](https://img.shields.io/badge/JAVASCRIPT-0d0d0d?style=for-the-badge&logo=javascript&logoColor=c9a84c&color=c9a84c)
+&nbsp;
+![](https://img.shields.io/badge/HTML%20%2F%20CSS-0d0d0d?style=for-the-badge&logo=html5&logoColor=c9a84c&color=c9a84c)
+&nbsp;
+![](https://img.shields.io/badge/TRADINGVIEW-0d0d0d?style=for-the-badge&logo=tradingview&logoColor=2962ff&color=2962ff)
+&nbsp;
+![](https://img.shields.io/badge/BSE-0d0d0d?style=for-the-badge&logoColor=c9a84c&color=c9a84c)
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+**GITHUB ACTIVITY**
+
+&nbsp;
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aatharva21&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=888888&border_color=222222&border_radius=4&custom_title=Activity" />
+&nbsp;
+<img width="49%" src="https://streak-stats.demolab.com?user=Aatharva21&theme=dark&background=0d0d0d&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=666666&border=222222&border_radius=4&dates=444444" />
+
+</div>
+
+&nbsp;
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aatharva21&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c9a84c&text_color=888888&border_color=222222&border_radius=4&langs_count=6&custom_title=Languages" />
+&nbsp;
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Aatharva21&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4&title=Stars,Commits,Repositories,Followers" />
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+**CONTRIBUTION**
+
+&nbsp;
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aatharva21/Aatharva21/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+<div align="center">
+
+![quote](https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=110&text=The+market+doesn%27t+care+about+your+opinions%2C+hopes%2C+or+feelings.&fontSize=12&fontColor=444444&fontAlignY=36&desc=It+moves+where+it+must.+Adapt+or+get+left+behind.&descSize=14&descColor=c9a84c&descAlignY=66&animation=fadeIn)
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a1f0a,100:0d0d0d&height=140&section=footer&text=AATHARVA21&fontSize=16&fontColor=2a2a2a&fontAlignY=68&fontFamily=Bebas+Neue)
+
+[atharvakharadein@gmail.com](mailto:atharvakharadein@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp; [github.com/Aatharva21](https://github.com/Aatharva21) &nbsp;&nbsp;·&nbsp;&nbsp; Mumbai, India
+
+</div>
