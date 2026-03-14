@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=20&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=650&height=45&lines=Crypto+Trader+%C2%B7+3%E2%80%935+Years+in+the+Markets;Ex+Advisory+Consultant%2C+CoinDCX;Studying+Capital+Markets+%E2%80%94+Bombay+Stock+Exchange;The+market+moves+where+it+must.)](https://github.com/Aatharva21)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=20&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=650&height=45&lines=Crypto+Trader+%C2%B7+3%E2%80%935+Years+in+the+Markets;Ex+Advisory+Consultant%2C+CoinDCX;Capital+Markets+%E2%80%94+Bombay+Stock+Exchange;The+market+moves+where+it+must.)](https://github.com/Aatharva21)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![capsule](https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=60&text=Crypto+Trader+%C2%B7+3%E2%80%935+Years+Experience+%C2%B7+Ex+Advisory+Consultant%2C+CoinDCX+%C2%B7+Studying+Capital+Markets%2C+BSE&fontSize=12&fontColor=c9a84c&fontAlignY=55&animation=fadeIn)
+![capsule](https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=60&text=Crypto+Trader+%C2%B7+3%E2%80%935+Years+Experience+%C2%B7+Ex+Advisory+Consultant%2C+CoinDCX+%C2%B7+Capital+Markets%2C+Bombay+Stock+Exchange&fontSize=12&fontColor=c9a84c&fontAlignY=55&animation=fadeIn)
 
 </div>
 
